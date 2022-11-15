@@ -35,6 +35,9 @@ Maybe sometimes being alone makes us relaxed but as human beings, we should meet
 Welcome back to Communication Era...
 
 <details><summary>Keep up to date about us on other platforms</summary>
+<br>
+
+<img src="https://user-images.githubusercontent.com/8795682/201856441-d0266915-40f5-4b87-8dc6-ffec607bd7d5.png" alt="drawing" width="12"/> [Website](https://nearily.com)
 
 <img src="https://user-images.githubusercontent.com/8795682/201862444-6ca7551a-8985-4459-b372-c11b40a09557.png" alt="drawing" width="12"/> [Instagram](https://instagram.com/getnearily)
 
