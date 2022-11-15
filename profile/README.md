@@ -4,31 +4,31 @@ Welcome to Communication Era. This is the era that you have to be connected with
 
 ## It's time to change game rules
 
-🔒 Your data, your rules:
+### 🔒 Your data, your rules:
 
 Stay connected with people while using latest technologies and providing less of your personal data. Unfortunately most of communication application providers collecting many of your personal data to sell and process your data with third party companies. Unlike others, we won't be indifferent and compromise about your most important right, privacy.
 
 ## Designed for you
 
-👀 Behold the elegance:
+### 👀 Behold the elegance:
 
 Applications have to be designed for people who is going to use them. It's not about tucking all the features on screen randomly anymore. Stop complexity and say hi to easy-to-use user friendly interface which is completely designed for you.
 
 ## Fully qualified
 
-⚡️ Supercharged swiftly:
+### ⚡️ Supercharged swiftly:
 
 Empowered and regularly updated by nowadays software technologies. Always ready to be updated for tomorrow. Thanks to in-app machine learning, introducing world's most secure and smart social networking platform.
 
 ## Up-to-date
 
-↗️ Non-stop online, as it has to be:
+### ↗️ Non-stop online, as it has to be:
 
 Let's be honest, we all hate interruptions in life. True communication comes through with seamless connection. An uptime ratio is heart beat of applications. That's why especially communication applications have to be up always as they can.
 
 ## Extend your connections
 
-🫂 Your network in your pocket:
+### 🫂 Your network in your pocket:
 
 Maybe sometimes being alone makes us relaxed but as human beings, we should meet someone new even if rarely. Because if we just be friends with walls, books or tv shows we lose our minds. Connect with your friends, family, colleagues or even someone new.
 
