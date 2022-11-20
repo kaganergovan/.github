@@ -1,4 +1,4 @@
-# <img src="https://user-images.githubusercontent.com/8795682/202929019-ef1253fe-8f5a-4a83-b084-2789f9932865.png" alt="drawing" width="25"/> Hello.
+# <img src="https://user-images.githubusercontent.com/8795682/202929096-e2e0dc99-472a-4126-9a21-e4d3eb5ff219.png" alt="drawing" width="25"/> Hello.
 
 Welcome to Communication Era. This is the era that you have to be connected with people for being stay up-to-date. Imagine an application which already does this this for you secure and seamlessly. 
 
@@ -37,7 +37,7 @@ Welcome back to Communication Era...
 <details open><summary>Keep up to date about us on other platforms</summary>
 <br>
 
-<img src="https://user-images.githubusercontent.com/8795682/201856441-d0266915-40f5-4b87-8dc6-ffec607bd7d5.png" alt="drawing" width="12"/> [Website](https://nearily.com)
+<img src="https://user-images.githubusercontent.com/8795682/202929096-e2e0dc99-472a-4126-9a21-e4d3eb5ff219.png" alt="drawing" width="12"/> [Website](https://nearily.com)
 
 <img src="https://user-images.githubusercontent.com/8795682/201862444-6ca7551a-8985-4459-b372-c11b40a09557.png" alt="drawing" width="12"/> [Instagram](https://instagram.com/getnearily)
 
