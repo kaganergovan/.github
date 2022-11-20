@@ -1,4 +1,4 @@
-# <img src="https://user-images.githubusercontent.com/8795682/201856441-d0266915-40f5-4b87-8dc6-ffec607bd7d5.png" alt="drawing" width="25"/>  | Hello.
+# <img src="https://user-images.githubusercontent.com/8795682/201856441-d0266915-40f5-4b87-8dc6-ffec607bd7d5.png" alt="drawing" width="25"/> Hello.
 
 Welcome to Communication Era. This is the era that you have to be connected with people for being stay up-to-date. Imagine an application which already does this this for you secure and seamlessly. 
 
