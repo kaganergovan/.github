@@ -24,7 +24,7 @@ Empowered and regularly updated by nowadays software technologies. Always ready 
 
 ### ↗️ Non-stop online, as it has to be:
 
-Let's be honest, we all hate interruptions in life. True communication comes through with seamless connection. An uptime ratio is heart beat of applications. That's why especially communication applications have to be up always as they can.
+Let's be honest, we all hate interruptions in life. True communication comes through with seamless connection. An uptime ratio is heart beat of applications. That's why especially a communication application has to be up always as it can.
 
 ## Extend your connections
 
