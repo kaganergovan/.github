@@ -34,6 +34,8 @@ Maybe sometimes being alone makes us relaxed but as human beings, we should meet
 
 Welcome back to Communication Era...
 
+---
+
 <details open><summary>Keep up to date about us on other platforms</summary>
 <br>
 
